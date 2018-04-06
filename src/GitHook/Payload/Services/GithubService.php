@@ -37,7 +37,7 @@ class GithubService extends Payload {
             'homepage' => null,
         ],
         'ref' => null,
-        'user_name' => null,
+        'login' => null,
         'before' => null,
         'after' => null,
     ];
